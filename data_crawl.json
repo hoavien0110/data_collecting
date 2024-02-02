@@ -1,0 +1,262 @@
+[
+    {
+        "img_local_path": "data_img/1.jpg",
+        "caption1": "Joselu scored his sixth and seventh goals of the season as Real Madrid moved back to the top of La Liga",
+        "caption2": "Joselu scored a goal in each half as Real Madrid beat local rivals Getafe to return to the top of La Liga.",
+        "article_url": "https://www.bbc.com/sport/football/68174530",
+        "label": 0,
+        "caption1_entities": [["Joselu", "PERSON"], ["sixth", "ORDINAL"], ["seventh", "ORDINAL"], ["the", "DATE"], ["season", "DATE"], ["Real", "ORG"], ["Madrid", "ORG"], ["La", "FAC"], ["Liga", "FAC"]],
+        "caption2_entities": [["Joselu", "PERSON"], ["half", "CARDINAL"], ["Real", "ORG"], ["Madrid", "ORG"], ["Getafe", "PERSON"], ["La", "FAC"], ["Liga", "FAC"]]
+    },
+    {
+        "img_local_path": "data_img/2.webp",
+        "caption1": "Taylor overcame Jim Crow-era racism to become a world champion cyclist",
+        "caption2": "Taylor's unlikely rise to stardom took place at the height of Jim Crow oppression in the United States.",
+        "article_url": "https://www.bbc.com/travel/article/20240131-major-taylor-the-first-black-american-global-sports-superstar",
+        "label": 1,
+        "caption1_entities": [["Taylor", "PERSON"], ["Jim", "PERSON"], ["Crow", "PERSON"], ["-", "PERSON"], ["era", "PERSON"]],
+        "caption2_entities": [["Taylor", "PERSON"], ["Jim", "PERSON"], ["Crow", "PERSON"], ["the", "GPE"], ["United", "GPE"], ["States", "GPE"]]
+    },
+    {
+        "img_local_path": "data_img/3.webp",
+        "caption1": "The 100th race of Sweden's famed Vasaloppet cross-country ski race takes place this year.",
+        "caption2": "Each year, millions of Swedes gather around our TVs to watch the world's biggest and oldest annual cross-country skiing competition, the 90km Vasaloppet, whose 100th race takes place on 3 March 2024.",
+        "article_url": "https://www.bbc.com/travel/article/20240118-concrete-tunnels-and-permafrost-how-sweden-is-future-proofing-skiing",
+        "label": 0,
+        "caption1_entities": [["100th", "ORDINAL"], ["Sweden", "GPE"], ["Vasaloppet", "NORP"], ["this", "DATE"], ["year", "DATE"]],
+        "caption2_entities": [["millions", "CARDINAL"], ["Swedes", "NORP"], ["annual", "DATE"], ["90", "CARDINAL"], ["Vasaloppet", "NORP"], ["100th", "ORDINAL"], ["3", "DATE"], ["March", "DATE"], ["2024", "DATE"]]
+    },
+    {
+        "img_local_path": "data_img/4.webp",
+        "caption1": "Taylor Swift will perform in Liverpool for three nights as part of her Eras tour.",
+        "caption2": "A special Taylor Swift working group has been set up in Liverpool ahead of her visit to the city in June.",
+        "article_url": "https://www.bbc.com/news/uk-england-merseyside-68085125",
+        "label": 0,
+        "caption1_entities": [["Taylor", "PERSON"], ["Swift", "PERSON"], ["Liverpool", "GPE"], ["three", "DATE"], ["nights", "DATE"], ["Eras", "NORP"]],
+        "caption2_entities": [["Taylor", "PERSON"], ["Liverpool", "GPE"], ["June", "DATE"]]
+    },
+    {
+        "img_local_path": "data_img/5.jpg",
+        "caption1": "England's European women's football champions will seek to become world champions in the summer.",
+        "caption2": "European football champions England will be in Australia and New Zealand for the Women's World Cup from 20 July.",
+        "article_url": "https://www.bbc.com/sport/63948346",
+        "label": 0,
+        "caption1_entities": [["England", "GPE"], ["European", "NORP"], ["summer", "DATE"]],
+        "caption2_entities": [["European", "NORP"], ["England", "GPE"], ["Australia", "GPE"], ["New", "GPE"], ["Zealand", "GPE"], ["the", "ORG"], ["Women", "ORG"], ["'s", "ORG"], ["World", "ORG"], ["Cup", "ORG"], ["20", "DATE"], ["July", "DATE"]]
+    },
+    {
+        "img_local_path": "data_img/6.webp",
+        "caption1": "Rodrigo first made her name in Disney channel shows such as High School Musical: The Musical: The Series (Credit: Disney).",
+        "caption2": "At the time, Rodrigo was relatively unknown to pop fans, though she had already starred in two Disney Channel series: the quirky comedy Bizaardvark and meta mockumentary High School Musical: The Musical: The Series.",
+        "article_url": "https://www.bbc.com/culture/article/20230907-how-pop-star-olivia-rodrigo-became-a-defining-voice-of-gen-z",
+        "label": 0,
+        "caption1_entities": [["Rodrigo", "ORG"], ["Disney", "ORG"], ["High", "ORG"], ["School", "ORG"], ["Musical", "ORG"], [":", "ORG"], ["The", "ORG"], ["Musical", "ORG"], [":", "ORG"], ["The", "ORG"], ["Series", "ORG"]],
+        "caption2_entities": [["Rodrigo", "PERSON"], ["two", "CARDINAL"], ["Disney", "ORG"], ["Channel", "ORG"], ["Bizaardvark", "PERSON"], ["The", "WORK_OF_ART"], ["Musical", "WORK_OF_ART"], [":", "WORK_OF_ART"], ["The", "WORK_OF_ART"], ["Series", "WORK_OF_ART"]]
+    },
+    {
+        "img_local_path": "data_img/7.webp",
+        "caption1": "Once Dahl had exploded the vinyl records, thousands of spectators stormed the field.",
+        "caption2": "Dahl triggered the explosives, sending shards of shattered vinyl 200ft into the air. More than 5,000 fans took this as their cue to storm the field, tearing up the grass, kindling bonfires, and stealing the bases, until they were dispersed by riot police.",
+        "article_url": "https://www.bbc.com/culture/article/20230922-the-night-angry-rock-fans-destroyed-disco-music",
+        "label": 0,
+        "caption1_entities": [["Once", "ORG"], ["Dahl", "ORG"], ["thousands", "CARDINAL"]],
+        "caption2_entities": [["200", "CARDINAL"], ["More", "CARDINAL"], ["than", "CARDINAL"], ["5,000", "CARDINAL"]]
+    },
+    {
+        "img_local_path": "data_img/8.webp",
+        "caption1": "The Hood Hikers was born when Jasmine Guadalupe wanted to support people from her community to enjoy outdoors experiences as part of a safe community.",
+        "caption2": "The walking group the Hood Hikers was born, dedicated to be 'a safe space in nature for all black and brown folks, regardless of gender, income bracket'.",
+        "article_url": "https://www.bbc.com/future/article/20240109-the-hiking-groups-tackling-racism-in-nature",
+        "label": 0,
+        "caption1_entities": [["The", "WORK_OF_ART"], ["Hood", "WORK_OF_ART"], ["Hikers", "WORK_OF_ART"], ["Jasmine", "PERSON"], ["Guadalupe", "PERSON"]],
+        "caption2_entities": [["the", "FAC"], ["Hood", "FAC"], ["Hikers", "FAC"]]
+    },
+    {
+        "img_local_path": "data_img/9.webp",
+        "caption1": "The warming stripes have been used to decorate public transport such as electric trams and buses in countries including the UK and Germany.",
+        "caption2": "The stripes have been displayed as public infrastructure, on public transport in Europe, decorated buildings and even natural landmarks such as the White Cliffs of Dover in England.",
+        "article_url": "https://www.bbc.com/future/article/20231206-the-coloured-stripes-that-explain-climate-change",
+        "label": 0,
+        "caption1_entities": [["UK", "GPE"], ["Germany", "GPE"]],
+        "caption2_entities": [["Europe", "LOC"], ["the", "ORG"], ["White", "ORG"], ["Cliffs", "ORG"], ["of", "ORG"], ["Dover", "ORG"], ["England", "GPE"]]
+    },
+    {
+        "img_local_path": "data_img/10.webp",
+        "caption1": "Greta at a 'school strike' in 2018. She was 15 when she began the protests.",
+        "caption2": "In summer 2018, aged 15, Ms Thunberg held the first 'School Strike for Climate' outside the Swedish parliament.",
+        "article_url": "https://www.bbc.com/news/world-europe-49918719",
+        "label": 0,
+        "caption1_entities": [["2018", "DATE"], ["15", "DATE"]],
+        "caption2_entities":  [["summer", "DATE"], ["2018", "DATE"], ["15", "DATE"], ["Ms", "PERSON"], ["Thunberg", "PERSON"], ["first", "ORDINAL"], ["Swedish", "NORP"]]
+    },
+    {
+        "img_local_path": "",
+        "caption1": "",
+        "caption2": "",
+        "article_url": "",
+        "label": 0,
+        "caption1_entities": ,
+        "caption2_entities": 
+    },
+    {
+        "img_local_path": "",
+        "caption1": "",
+        "caption2": "",
+        "article_url": "",
+        "label": 0,
+        "caption1_entities": ,
+        "caption2_entities": 
+    },
+    {
+        "img_local_path": "",
+        "caption1": "",
+        "caption2": "",
+        "article_url": "",
+        "label": 0,
+        "caption1_entities": ,
+        "caption2_entities": 
+    },
+    {
+        "img_local_path": "",
+        "caption1": "",
+        "caption2": "",
+        "article_url": "",
+        "label": 0,
+        "caption1_entities": ,
+        "caption2_entities": 
+    },
+    {
+        "img_local_path": "",
+        "caption1": "",
+        "caption2": "",
+        "article_url": "",
+        "label": 0,
+        "caption1_entities": ,
+        "caption2_entities": 
+    },
+    {
+        "img_local_path": "",
+        "caption1": "",
+        "caption2": "",
+        "article_url": "",
+        "label": 0,
+        "caption1_entities": ,
+        "caption2_entities": 
+    },
+    {
+        "img_local_path": "",
+        "caption1": "",
+        "caption2": "",
+        "article_url": "",
+        "label": 0,
+        "caption1_entities": ,
+        "caption2_entities": 
+    },
+    {
+        "img_local_path": "",
+        "caption1": "",
+        "caption2": "",
+        "article_url": "",
+        "label": 0,
+        "caption1_entities": ,
+        "caption2_entities": 
+    },
+    {
+        "img_local_path": "",
+        "caption1": "",
+        "caption2": "",
+        "article_url": "",
+        "label": 0
+    },
+    {
+        "img_local_path": "",
+        "caption1": "",
+        "caption2": "",
+        "article_url": "",
+        "label": 0
+    },
+    {
+        "img_local_path": "",
+        "caption1": "",
+        "caption2": "",
+        "article_url": "",
+        "label": 0
+    },
+    {
+        "img_local_path": "",
+        "caption1": "",
+        "caption2": "",
+        "article_url": "",
+        "label": 0
+    },
+    {
+        "img_local_path": "",
+        "caption1": "",
+        "caption2": "",
+        "article_url": "",
+        "label": 0
+    },
+    {
+        "img_local_path": "",
+        "caption1": "",
+        "caption2": "",
+        "article_url": "",
+        "label": 0
+    },
+    {
+        "img_local_path": "",
+        "caption1": "",
+        "caption2": "",
+        "article_url": "",
+        "label": 0
+    },
+    {
+        "img_local_path": "",
+        "caption1": "",
+        "caption2": "",
+        "article_url": "",
+        "label": 0
+    },
+    {
+        "img_local_path": "",
+        "caption1": "",
+        "caption2": "",
+        "article_url": "",
+        "label": 0
+    },
+    {
+        "img_local_path": "",
+        "caption1": "",
+        "caption2": "",
+        "article_url": "",
+        "label": 0
+    },
+    {
+        "img_local_path": "",
+        "caption1": "",
+        "caption2": "",
+        "article_url": "",
+        "label": 0
+    },
+    {
+        "img_local_path": "",
+        "caption1": "",
+        "caption2": "",
+        "article_url": "",
+        "label": 0
+    },
+    {
+        "img_local_path": "",
+        "caption1": "",
+        "caption2": "",
+        "article_url": "",
+        "label": 0
+    },
+    {
+        "img_local_path": "",
+        "caption1": "",
+        "caption2": "",
+        "article_url": "",
+        "label": 0
+    }
+]
