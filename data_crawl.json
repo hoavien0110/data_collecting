@@ -90,6 +90,141 @@
         "caption2_entities":  [["summer", "DATE"], ["2018", "DATE"], ["15", "DATE"], ["Ms", "PERSON"], ["Thunberg", "PERSON"], ["first", "ORDINAL"], ["Swedish", "NORP"]]
     },
     {
+        "img_local_path": "data_img/11.webp",
+        "caption1": "U.S. President Joe Biden called former U.S. President Donald Trump the 'sitting president' during a Democratic Party dinner in Columbia, South Carolina, on Jan. 27, 2024.",
+        "caption2": "In late January 2024, numerous users on X, YouTube, Facebook and Truth Social posted a video claiming that it showed U.S. President Joe Biden wrongly referring to former U.S. President Donald Trump as the 'sitting president' in a speech that month.",
+        "article_url": "https://www.snopes.com/fact-check/biden-calls-trump-sitting-president/",
+        "label": 0,
+        "caption1_entities": [["U.S.", "GPE"], ["Joe", "PERSON"], ["Biden", "PERSON"], ["U.S.", "GPE"], ["Donald", "PERSON"], ["Trump", "PERSON"], ["Democratic", "ORG"], ["Party", "ORG"], ["Columbia", "GPE"], ["South", "GPE"], ["Carolina", "GPE"], ["Jan.", "DATE"], ["27", "DATE"], [",", "DATE"], ["2024", "DATE"]],
+        "caption2_entities": [["late", "DATE"], ["January", "DATE"], ["2024", "DATE"], ["X", "NORP"], ["YouTube", "ORG"], ["Facebook", "ORG"], ["and", "ORG"], ["Truth", "ORG"], ["Social", "ORG"], ["U.S.", "GPE"], ["Joe", "PERSON"], ["Biden", "PERSON"], ["U.S.", "GPE"], ["Donald", "PERSON"], ["Trump", "PERSON"], ["that", "DATE"], ["month", "DATE"]]
+    },
+    {
+        "img_local_path": "data_img/12.webp",
+        "caption1": "U.S. President Joe Biden wore a hard hat backwards during a photo op with union construction workers in Superior, Wisconsin.",
+        "caption2": "After U.S. President Joe Biden and U.S. Sen. Amy Klobuchar, D-Minn., visited a construction site in Superior, Wisconsin, on Jan. 25, 2024, to unveil the administration's $5 billion infrastructure plan, Klobuchar posted a photo on X (formerly Twitter) of herself, Biden and a group of construction workers celebrating in a local barroom.",
+        "article_url": "https://www.snopes.com/fact-check/biden-wear-hardhat-backwards/",
+        "label": 0,
+        "caption1_entities": [["U.S.", "GPE"], ["Joe", "PERSON"], ["Biden", "PERSON"], ["Superior", "GPE"], ["Wisconsin", "GPE"]],
+        "caption2_entities": [["U.S.", "GPE"], ["Joe", "PERSON"], ["Biden", "PERSON"], ["U.S.", "GPE"], ["Amy", "PERSON"], ["Klobuchar", "PERSON"], ["Minn.", "GPE"], ["Superior", "GPE"], ["Wisconsin", "GPE"], ["Jan.", "DATE"], ["25", "DATE"], [",", "DATE"], ["2024", "DATE"], ["$", "MONEY"], ["5", "MONEY"], ["billion", "MONEY"], ["Klobuchar", "ORG"], ["Biden", "PERSON"]]
+    },
+    {
+        "img_local_path": "data_img/13.webp",
+        "caption1": "A viral video posted January 2024 of Kim Jong Un watching a volleyball game is authentic.",
+        "caption2": "On Jan. 23, 2024, X (formerly Twitter) account @historyinmemes shared the video, captioned 'Kim Jong Un watching a volleyball game.'",
+        "article_url": "https://www.snopes.com/fact-check/kim-jong-un-watching-volleyball/",
+        "label": 0,
+        "caption1_entities": [["January", "DATE"], ["2024", "DATE"], ["Kim", "PERSON"], ["Jong", "PERSON"], ["Un", "PERSON"]],
+        "caption2_entities": [["Jan.", "DATE"], ["23", "DATE"], [",", "DATE"], ["2024", "DATE"], ["Kim", "PERSON"], ["Jong", "PERSON"], ["Un", "PERSON"]]
+    },
+    {
+        "img_local_path": "data_img/14.webp",
+        "caption1": "Eating too much sour candy can cause the tongue to peel.",
+        "caption2": "A post shared on Reddit on Jan. 7, 2024, (archived here) to the thread r/todayilearned, claimed that 'eating too many Sour Skittles in one sitting (or any sour candy) can make your tongue shed a layer of skin.'",
+        "article_url": "https://www.snopes.com/fact-check/sour-candy-tongue-peel/",
+        "label": 0,
+        "caption1_entities": [],
+        "caption2_entities": [["Reddit", "NORP"], ["Jan.", "DATE"], ["7", "DATE"], [",", "DATE"], ["2024", "DATE"], ["Sour", "PERSON"], ["Skittles", "PERSON"], ["one", "CARDINAL"]]
+    },
+    {
+        "img_local_path": "data_img/15.webp",
+        "caption1": "The Rev. Martin Luther King Jr. once wrote, 'Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.'",
+        "caption2": "One of the most famous lines attributed to King is typically quoted as 'Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate, only love can do that.'",
+        "article_url": "",
+        "label": 0,
+        "caption1_entities": [["Martin", "PERSON"], ["Luther", "PERSON"], ["King", "PERSON"], ["Jr.", "PERSON"]],
+        "caption2_entities":  [["One", "CARDINAL"]]
+    },
+    {
+        "img_local_path": "data_img/16.webp",
+        "caption1": "An authentic photograph shows Kathrine Switzer, the first woman to run the Boston Marathon with an official number, being grabbed by Jock Semple, a marathon official who was trying to pull her out of the race.",
+        "caption2": "A viral photograph that has circulated for years on Reddit and other social media platforms purports to show the first woman to officially run the Boston Marathon, Kathrine Switzer, being accosted by a race official.",
+        "article_url": "https://www.snopes.com/fact-check/kathrine-switzer-photo/",
+        "label": 0,
+        "caption1_entities": [["Kathrine", "PERSON"], ["Switzer", "PERSON"], ["first", "ORDINAL"], ["the", "ORG"], ["Boston", "ORG"], ["Marathon", "ORG"], ["Jock", "PERSON"], ["Semple", "PERSON"]],
+        "caption2_entities": [["years", "DATE"], ["Reddit", "NORP"], ["first", "ORDINAL"], ["the", "ORG"], ["Boston", "ORG"], ["Marathon", "ORG"], ["Kathrine", "PERSON"], ["Switzer", "PERSON"]]
+    },
+    {
+        "img_local_path": "data_img/17.webp",
+        "caption1": "An photograph authentically shows The Doors' lead singer Jim Morrison in 1967 getting arrested onstage by a police officer in New Haven, Connecticut.",
+        "caption2": "In 1967, Jim Morrison was maced by a cop for making out with a fan backstage.",
+        "article_url": "https://www.snopes.com/fact-check/jim-morrison-arrested-onstage/",
+        "label": 0,
+        "caption1_entities": [["Jim", "PERSON"], ["Morrison", "PERSON"], ["1967", "DATE"], ["New", "GPE"], ["Haven", "GPE"], ["Connecticut", "GPE"]],
+        "caption2_entities": [["1967", "DATE"], ["Jim", "PERSON"], ["Morrison", "PERSON"]]
+    },
+    {
+        "img_local_path": "data_img/18.webp",
+        "caption1": "Keith Urban died in December 2023.",
+        "caption2": "In December 2023, false rumors circulated claiming that Keith Urban had died. ",
+        "article_url": "https://www.snopes.com/fact-check/keith-urban-passed-away/",
+        "label": 1,
+        "caption1_entities": [["December", "DATE"], ["2023", "DATE"]],
+        "caption2_entities": [["December", "DATE"], ["2023", "DATE"], ["Keith", "ORG"], ["Urban", "ORG"]]
+    },
+    {
+        "img_local_path": "data_img/19.webp",
+        "caption1": "A video clip shows a 'Muslim immigrant' urinating on pork products in a Dutch grocery store.",
+        "caption2": "By email, the creator of the video confirmed to Snopes that the video was fake, meaning that the subject did not urinate in the grocery store and that a sound effect had been added for the effect of a prank.",
+        "article_url": "https://www.snopes.com/fact-check/muslim-immigrant-urinating-pork/",
+        "label": 1,
+        "caption1_entities": [["Muslim", "NORP"], ["Dutch", "NORP"]],
+        "caption2_entities": [["Snopes", "ORG"]]
+    },
+    {
+        "img_local_path": "data_img/20.webp",
+        "caption1": "A photograph shared in November 2023 authentically showed a rare, red and white 'Santa cardinal' bird.",
+        "caption2": "In fact, the photograph showed various signs of being AI-generated. For instance, the bird's claws appeared to dissolve into the tree branch.",
+        "article_url": "https://www.snopes.com/fact-check/photo-santa-cardinal-bird/",
+        "label": 1,
+        "caption1_entities": [["November", "DATE"], ["2023", "DATE"], ["Santa", "ORG"]],
+        "caption2_entities": [["AI", "ORG"]]
+    },
+    {
+        "img_local_path": "data_img/21.webp",
+        "caption1": "An online advertisement accurately reported that 'America's most famous burger brand is now Chinese-owned.'",
+        "caption2": "Nowhere in the article did the author provide details about a U.S. burger brand being purchased by company in China.",
+        "article_url": "https://www.snopes.com/fact-check/china-america-burger-brand/",
+        "label": 1,
+        "caption1_entities": [["America", "GPE"], ["Chinese", "NORP"]],
+        "caption2_entities": [["U.S.", "GPE"], ["China", "GPE"]]
+    },
+    {
+        "img_local_path": "data_img/22.webp",
+        "caption1": "A collection of images authentically depicts the cast of the Harry Potter movies partying at a rave in the late 1990s.",
+        "caption2": "This never happened; the black and white images are not real in any way and were entirely AI generated.",
+        "article_url": "https://www.snopes.com/fact-check/rave-harry-potter-cast/",
+        "label": 1,
+        "caption1_entities": [["Harry", "PERSON"], ["Potter", "PERSON"], ["the", "DATE"], ["late", "DATE"], ["1990s", "DATE"]],
+        "caption2_entities": [["AI", "ORG"]]
+    },
+    {
+        "img_local_path": "data_img/23.webp",
+        "caption1": "A real photo shared around social media in December 2023 shows Elon Musk holding a flag that says 'Trump Won, Democrats Cheated.'",
+        "caption2": "A photo of Musk taken by Getty Images photographer Slaven Vlasic just as Musk delivered the second, emphatic 'F---,' complete with a firm hand gesture, inspired a Photoshop connoisseur online.",
+        "article_url": "https://www.snopes.com/fact-check/elon-musk-trump-won-flag/",
+        "label": 1,
+        "caption1_entities": [["December", "DATE"], ["2023", "DATE"], ["Elon", "PERSON"], ["Musk", "PERSON"], ["Trump", "PERSON"], ["Won", "PERSON"], ["Democrats", "ORG"], ["Cheated", "ORG"]],
+        "caption2_entities": [["Getty", "ORG"], ["Images", "ORG"], ["Musk", "PERSON"], ["second", "ORDINAL"], ["Photoshop", "PRODUCT"]]
+    },
+    {
+        "img_local_path": "data_img/24.webp",
+        "caption1": "The Eiffel Tower in Paris lit up in glittering pink in December 2023 to celebrate the release of rapper and singer Nicki Minaj's new “Pink Friday 2” album.",
+        "caption2": "The footage in question is from October 2023, when the Eiffel Tower was illuminated for Pink October to raise awareness of breast cancer.",
+        "article_url": "https://www.snopes.com/fact-check/pink-eiffel-tower-nicki-minaj/",
+        "label": 1,
+        "caption1_entities": [["The", "FAC"], ["Eiffel", "FAC"], ["Tower", "FAC"], ["Paris", "GPE"], ["December", "DATE"], ["2023", "DATE"], ["Nicki", "PERSON"], ["Minaj", "PERSON"], ["'s", "PERSON"], ["Friday", "DATE"], ["2", "DATE"]],
+        "caption2_entities": [["October", "DATE"], ["2023", "DATE"], ["the", "FAC"], ["Eiffel", "FAC"], ["Tower", "FAC"], ["October", "DATE"]]
+    },
+    {
+        "img_local_path": "data_img/25.webp",
+        "caption1": "In November 2023, a headline accurately reported that Netflix had cancelled Season 5 of 'Stranger Things.'",
+        "caption2": "Netflix had not released a statement claiming that Season 5 was cancelled.",
+        "article_url": "https://www.snopes.com/fact-check/stranger-things-5-cancelled/",
+        "label": 0,
+        "caption1_entities": [["November", "DATE"], ["2023", "DATE"], ["Netflix", "ORG"], ["Season", "DATE"], ["5", "DATE"], ["Stranger", "WORK_OF_ART"], ["Things", "WORK_OF_ART"]],
+        "caption2_entities": [["Netflix", "ORG"], ["Season", "DATE"], ["5", "DATE"]]
+    },
+    {
         "img_local_path": "",
         "caption1": "",
         "caption2": "",
@@ -151,112 +286,5 @@
         "label": 0,
         "caption1_entities": ,
         "caption2_entities": 
-    },
-    {
-        "img_local_path": "",
-        "caption1": "",
-        "caption2": "",
-        "article_url": "",
-        "label": 0,
-        "caption1_entities": ,
-        "caption2_entities": 
-    },
-    {
-        "img_local_path": "",
-        "caption1": "",
-        "caption2": "",
-        "article_url": "",
-        "label": 0
-    },
-    {
-        "img_local_path": "",
-        "caption1": "",
-        "caption2": "",
-        "article_url": "",
-        "label": 0
-    },
-    {
-        "img_local_path": "",
-        "caption1": "",
-        "caption2": "",
-        "article_url": "",
-        "label": 0
-    },
-    {
-        "img_local_path": "",
-        "caption1": "",
-        "caption2": "",
-        "article_url": "",
-        "label": 0
-    },
-    {
-        "img_local_path": "",
-        "caption1": "",
-        "caption2": "",
-        "article_url": "",
-        "label": 0
-    },
-    {
-        "img_local_path": "",
-        "caption1": "",
-        "caption2": "",
-        "article_url": "",
-        "label": 0
-    },
-    {
-        "img_local_path": "",
-        "caption1": "",
-        "caption2": "",
-        "article_url": "",
-        "label": 0
-    },
-    {
-        "img_local_path": "",
-        "caption1": "",
-        "caption2": "",
-        "article_url": "",
-        "label": 0
-    },
-    {
-        "img_local_path": "",
-        "caption1": "",
-        "caption2": "",
-        "article_url": "",
-        "label": 0
-    },
-    {
-        "img_local_path": "",
-        "caption1": "",
-        "caption2": "",
-        "article_url": "",
-        "label": 0
-    },
-    {
-        "img_local_path": "",
-        "caption1": "",
-        "caption2": "",
-        "article_url": "",
-        "label": 0
-    },
-    {
-        "img_local_path": "",
-        "caption1": "",
-        "caption2": "",
-        "article_url": "",
-        "label": 0
-    },
-    {
-        "img_local_path": "",
-        "caption1": "",
-        "caption2": "",
-        "article_url": "",
-        "label": 0
-    },
-    {
-        "img_local_path": "",
-        "caption1": "",
-        "caption2": "",
-        "article_url": "",
-        "label": 0
     }
 ]
