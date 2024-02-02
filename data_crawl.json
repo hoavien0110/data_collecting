@@ -220,54 +220,54 @@
         "caption1": "In November 2023, a headline accurately reported that Netflix had cancelled Season 5 of 'Stranger Things.'",
         "caption2": "Netflix had not released a statement claiming that Season 5 was cancelled.",
         "article_url": "https://www.snopes.com/fact-check/stranger-things-5-cancelled/",
-        "label": 0,
+        "label": 1,
         "caption1_entities": [["November", "DATE"], ["2023", "DATE"], ["Netflix", "ORG"], ["Season", "DATE"], ["5", "DATE"], ["Stranger", "WORK_OF_ART"], ["Things", "WORK_OF_ART"]],
         "caption2_entities": [["Netflix", "ORG"], ["Season", "DATE"], ["5", "DATE"]]
     },
     {
-        "img_local_path": "",
-        "caption1": "",
-        "caption2": "",
-        "article_url": "",
-        "label": 0,
-        "caption1_entities": ,
-        "caption2_entities": 
+        "img_local_path": "data_img/26.webp",
+        "caption1": "Disney CEO Bob Iger announced that Disney+ would be shutting down in December 2023.",
+        "caption2": "The headline's claim that Disney+ is shutting down is misleading. ",
+        "article_url": "https://www.snopes.com/fact-check/disney-plus-ending-2023/",
+        "label": 1,
+        "caption1_entities": [["Disney", "ORG"], ["Bob", "PERSON"], ["Iger", "PERSON"], ["Disney+", "PERSON"], ["December", "DATE"], ["2023", "DATE"]],
+        "caption2_entities": [["Disney+", "PERSON"]]
     },
     {
-        "img_local_path": "",
-        "caption1": "",
-        "caption2": "",
-        "article_url": "",
-        "label": 0,
-        "caption1_entities": ,
-        "caption2_entities": 
+        "img_local_path": "data_img/27.webp",
+        "caption1": "A TikTok video that surfaced in November 2023 accurately reported that Disney World was shutting down.",
+        "caption2": "There was no evidence that Disney World was shutting down at the time of this writing.",
+        "article_url": "https://www.snopes.com/fact-check/disney-world-shut-down/",
+        "label": 1,
+        "caption1_entities": [["TikTok", "ORG"], ["November", "DATE"], ["2023", "DATE"], ["Disney", "ORG"], ["World", "ORG"]],
+        "caption2_entities": [["Disney", "ORG"], ["World", "ORG"]]
     },
     {
-        "img_local_path": "",
-        "caption1": "",
-        "caption2": "",
-        "article_url": "",
-        "label": 0,
-        "caption1_entities": ,
-        "caption2_entities": 
+        "img_local_path": "data_img/28.webp",
+        "caption1": "Marie Osmond died in October 2023 due to an allergic reaction.",
+        "caption2": "This claim is not true; Osmond is alive.",
+        "article_url": "https://www.snopes.com/fact-check/marie-osmond-is-alive/",
+        "label": 1,
+        "caption1_entities": [["Marie", "PERSON"], ["Osmond", "PERSON"], ["October", "DATE"], ["2023", "DATE"]],
+        "caption2_entities": [["Osmond", "PERSON"]]
     },
     {
-        "img_local_path": "",
-        "caption1": "",
-        "caption2": "",
-        "article_url": "",
-        "label": 0,
-        "caption1_entities": ,
-        "caption2_entities": 
+        "img_local_path": "data_img/29.webp",
+        "caption1": "A picture that went viral in June 2023 authentically showed an extremely steep hill in San Francisco.",
+        "caption2": "In reality, the image was a composite photograph — a combination of two or more pictures — and did not authentically show San Francisco's landscape.",
+        "article_url": "https://www.snopes.com/fact-check/photo-san-francisco-hill/",
+        "label": 1,
+        "caption1_entities": [["June", "DATE"], ["2023", "DATE"], ["San", "GPE"], ["Francisco", "GPE"]],
+        "caption2_entities": [["two", "CARDINAL"], ["San", "GPE"], ["Francisco", "GPE"], ["'s", "GPE"]]
     },
     {
-        "img_local_path": "",
-        "caption1": "",
-        "caption2": "",
-        "article_url": "",
-        "label": 0,
-        "caption1_entities": ,
-        "caption2_entities": 
+        "img_local_path": "data_img/30.webp",
+        "caption1": "Ninety percent of marriages in the U.S. are between people who started dating during their middle or high school years.",
+        "caption2": "We could find no evidence documenting that the cited 90% figure is (or was) true any time in the last few decades, at least for the United States.",
+        "article_url": "https://www.snopes.com/fact-check/let-me-call-you-sweetheart/",
+        "label": 1,
+        "caption1_entities": [["Ninety", "PERCENT"], ["percent", "PERCENT"], ["U.S.", "GPE"]],
+        "caption2_entities": [["90", "PERCENT"], ["%", "PERCENT"], ["the", "DATE"], ["last", "DATE"], ["few", "DATE"], ["decades", "DATE"], ["the", "GPE"], ["United", "GPE"], ["States", "GPE"]]
     },
     {
         "img_local_path": "",
