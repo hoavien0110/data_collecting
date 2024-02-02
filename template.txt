@@ -1,0 +1,8 @@
+– img_local_path: path to a corresponding image in img folder.
+– caption1: first caption for image
+– caption2: second caption for image
+– article_url: link to the article from which we retrieved data.
+– label: label of the data, label = 1 means one of two captions are mismatched, otherwise label = 0.
+– caption1_entities,caption2_entities: list of named entities appear in
+each caption, detected using spacy entity recognizer.
+– maskrcnn_bboxes: list of detected bounding boxes corresponding to the image.
